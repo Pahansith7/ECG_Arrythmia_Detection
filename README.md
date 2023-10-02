@@ -1,8 +1,5 @@
 # ECG_Arrythmia_Detection
 This is a project I started to apply my knowledge regarding Signal Processing and Machine Learning.
-
-# ECG Prediction Project
-
 This repository houses the code and resources for an ECG prediction project. The primary aim of this project is to develop machine learning models capable of analyzing ECG data to predict various cardiac illnesses.
 
 ## Project Objectives
