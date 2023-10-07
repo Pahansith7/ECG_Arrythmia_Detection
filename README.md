@@ -16,8 +16,16 @@ This repository houses the code and resources for an ECG prediction project. The
 
   ![image](https://github.com/Pahansith7/ECG_Arrythmia_Detection/assets/104752425/8c57d965-eabb-4202-a55f-53ef69447552)
 
+- segmentation
 
-- **Feature Extraction**: Extract relevant features from ECG signals, including heart rate, QRS duration, and other critical morphological characteristics.
+  ![image](https://github.com/Pahansith7/ECG_Arrythmia_Detection/assets/104752425/86536f43-1ac4-4efc-83eb-054b4a205c43)
+
+  ![image](https://github.com/Pahansith7/ECG_Arrythmia_Detection/assets/104752425/3080a0ea-b621-4907-96ae-fc2cafc56d7b)
+
+
+  
+- **Feature Extraction**: Extract relevant features from ECG signals, including PQRS complex shape and other critical morphological characteristics.
+
 
 - **Machine Learning Models**: Train and fine-tune machine learning models, including deep neural networks, to predict cardiac conditions based on ECG features.
 
