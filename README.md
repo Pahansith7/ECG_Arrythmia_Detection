@@ -1,7 +1,5 @@
 # ECG_Arrythmia_Detection
-This is a project I started to apply my knowledge regarding Signal Processing and Machine Learning.
-This repository houses the code and resources for an ECG prediction project. The primary aim of this project is to develop machine learning models capable of analyzing ECG data to predict various cardiac illnesses.
-
+This is a projectconsists of several ECG preprocessing techniques which are necessary foe ECG beat classification.
 ## Project Objectives
 
 - **Data Collection**: Gather a comprehensive and diverse dataset of ECG recordings, including both healthy individuals and patients with different heart conditions.
@@ -22,13 +20,6 @@ This repository houses the code and resources for an ECG prediction project. The
 
   ![image](https://github.com/Pahansith7/ECG_Arrythmia_Detection/assets/104752425/3080a0ea-b621-4907-96ae-fc2cafc56d7b)
 
-
-  
-- **Feature Extraction**: Extract relevant features from ECG signals, including PQRS complex shape and other critical morphological characteristics.
-
-
-- **Machine Learning Models**: Train and fine-tune machine learning models, including deep neural networks, to predict cardiac conditions based on ECG features.
-
-This project is a work in progress.
+All the filters are implemented in python enivronment.
 
 
