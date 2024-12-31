@@ -1,10 +1,11 @@
 # ECG_Arrythmia_Detection
 This is a projectconsists of several ECG preprocessing techniques which are necessary foe ECG beat classification.
-## Project Objectives
+## Content
 
 - **Data Collection**: Gather a comprehensive and diverse dataset of ECG recordings, including both healthy individuals and patients with different heart conditions.
 
 - **Data Preprocessing**: Implement robust preprocessing techniques to clean, filter, and segment the ECG data, ensuring data quality.
+- Immplemeted FIR filters(using windowing method) and IIR filters(butterworth).
 
  ![image](https://github.com/Pahansith7/ECG_Arrythmia_Detection/assets/104752425/0bfb7c4c-0a72-4969-9be0-e44d77ac6e97)
  
