@@ -1,5 +1,12 @@
-# ECG_Arrythmia_Detection
+# ECG Signal Preprocessing
+
+---
+
+## Overview
 This is a projectconsists of several ECG preprocessing techniques which are necessary foe ECG beat classification.
+
+---
+
 ## Content
 
 - **Data Collection**: Gather a comprehensive and diverse dataset of ECG recordings, including both healthy individuals and patients with different heart conditions.
